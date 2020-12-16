@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="First Tab" %}
-* [ ] render
+* [x] render
 {% endtab %}
 
 {% tab title="Second Tab" %}
