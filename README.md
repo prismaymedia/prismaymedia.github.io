@@ -21,7 +21,7 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
-{% api-method method="get" host="" path="" %}
+{% api-method method="get" host="https://github.com/" path="" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}
